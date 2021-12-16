@@ -3,7 +3,7 @@ Welcome to my profile page! Feel free to explore, download or share anything tha
 ## Who exactly am I?
 <p align="justify">
     My name is Gabriel and I'm currently a Computer Science undergraduate at <b>UFSC - Universidade de Santa Catarina</b>. 
-    I'm a Python enthusiast and aspiring Data Scientist. I've got a wide range of interests in programming that range 
+    I'm a Python enthusiast and aspiring Data Scientist. I've got a array range of interests in programming that range 
     from machine learning and AI related topics to game development and desktop applications.
 </p>
 
