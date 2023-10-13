@@ -1,5 +1,5 @@
 # Welcome to devphobia's profile!👹
-Welcome to my profile page! Feel free to explore, download or share anything that you consider valuable from here!
+Welcome to my profile page! Feel free to explore, download or share anything that you consider valuable.
 ## Who exactly am I?
 <p align="justify">
     My name is Gabriel and I'm currently a Computer Science undergraduate at <b>UFSC - Universidade de Santa Catarina</b>. 
