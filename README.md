@@ -3,11 +3,11 @@ Welcome to my profile page! Feel free to explore, download or share anything tha
 ## Who exactly am I?
 <p align="justify">
     My name is Gabriel and I'm currently a Computer Science undergraduate at <b>UFSC - Universidade de Santa Catarina</b>. 
-    I'm a Python enthusiast and aspiring Data Scientist. I've got a array range of interests in programming that range 
-    from machine learning and AI related topics to game development and desktop applications.
+    I'm a privacy enthusiast and I aspire to be a successful cybersecurity professional. I've got an array of interests in
+    information security that range from computer networks to desktop applications.
 </p>
 
-I'm currently finishing reading _Automating the Boring Stuff_ by _Al Sweigwart_ and _Data Science from Scratch_ by _Joel Grus_.
+I'm currently studying to get the Network+ certification.
 
 My non-programming hobbies include reading philosophy, gaming and watching underground movies.
 
