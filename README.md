@@ -1,10 +1,10 @@
-# Welcome to devphobia's profile!👹
+# Welcome to devphobia's profile! 👹
 Welcome to my profile page! Feel free to explore, download or share anything that you consider valuable.
 ## Who exactly am I?
 <p align="justify">
-    My name is Gabriel and I'm currently a Computer Science undergraduate at <b>UFSC - Universidade de Santa Catarina</b>. 
-    I'm a privacy enthusiast and I aspire to be a successful cybersecurity professional. I've got an array of interests in
-    information security that range from computer networks to desktop applications.
+    My name is Gabriel and I'm currently a Computer Science undergraduate at <b>UFSC - Universidade de Santa Catarina</b>
+    and an InfoSec intern at Laboratório Bridge. I'm a privacy enthusiast and I aspire to be a successful cybersecurity 
+    professional. I've got an array of interests in information security that range from computer networks to desktop applications.
 </p>
 
 I'm currently studying to get the Network+ certification.
